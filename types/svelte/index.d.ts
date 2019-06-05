@@ -6,6 +6,7 @@
 /// <reference lib="dom" />
 
 /// <reference path="./svelte.d.ts" />
+/// <reference path="./interfaces.d.ts" />
 /// <reference path="./store.d.ts" />
 /// <reference path="./motion.d.ts" />
 /// <reference path="./transition.d.ts" />
