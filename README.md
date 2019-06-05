@@ -1,8 +1,9 @@
 # Typescript definitions for Svelte v3
+based on @pyoner/svelte-types
 
 ## Install
 ```bash
-npm i -D @pyoner/svelte-types
+npm i -D @furozen/svelte-types
 ```
 
 ## How to use?
@@ -12,7 +13,7 @@ Add to your `tsconfig.json`
 {
   "compilerOptions": {
     // ... your config
-    "types": ["@pyoner/svelte-types"]
+    "types": ["@furozen/svelte-types"]
   }
 }
 ```
